@@ -92,7 +92,3 @@ The application should now be running on `http://localhost:3000`.
 ## Contributing
 
 Feel free to fork this repository and submit a pull request if you would like to contribute to this project. Contributions to improve features or fix bugs are welcome!
-
-## License
-
-This project is licensed under the MIT License.
