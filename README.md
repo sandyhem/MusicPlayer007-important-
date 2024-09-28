@@ -11,7 +11,7 @@
 - [Usage](#usage)
 - [Admin Dashboard](#admin-dashboard)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
